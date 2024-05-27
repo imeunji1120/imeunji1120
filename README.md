@@ -14,7 +14,7 @@
 
 #### 포트폴리오
 
-  <a href="https://sequoia-turquoise-079.notion.site/c21d6a12d76544b9b2701ae9ff6baa5c?pvs=4"><img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"></a>
+
 
 #### Contact me
   
