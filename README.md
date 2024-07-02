@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/React-yellowt?style=for-the-badge&logo=Sass&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=Sass&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-violet?style=for-the-badge&logo=Sass&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NestJS-white?style=for-the-badge&logo=Sass&logoColor=black"/>&nbsp;&nbsp;&nbsp;
   
 #### 포트폴리오
 
